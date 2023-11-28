@@ -22,10 +22,10 @@ const whiteIcon = new circleIcon({ iconUrl: 'images/ico.png' }),
 
 L.marker([33.591265, 130.398628], { icon: pinkIcon }).addTo(map).bindPopup('天神駅');
 L.marker([33.586926, 130.392576], { icon: whiteIcon }).addTo(map).bindPopup('OFFOFF<br><img src="images/img01.png" alt="img">');
-L.marker([33.590841, 130.4128], { icon: whiteIcon }).addTo(map).bindPopup('FUK COFFEE<br><img src="images/img02.png" alt="img">');
-L.marker([33.588356, 130.39484], { icon: whiteIcon }).addTo(map).bindPopup('an coffee&scone<br><img src="images/img03.png" alt="img">');
-L.marker([33.592431, 130.396401], { icon: whiteIcon }).addTo(map).bindPopup('ぎるふりかふぇ<br><img src="images/img04.png" alt="img">');
-L.marker([33.590135, 130.398896], { icon: whiteIcon }).addTo(map).bindPopup('maison cake<br><img src="images/img05.png" alt="img">');
+L.marker([33.590841, 130.4128], { icon: whiteIcon }).addTo(map).bindPopup('FUK COFFEE<br><img src="images/img01.png" alt="img">');
+L.marker([33.588356, 130.39484], { icon: whiteIcon }).addTo(map).bindPopup('an coffee&scone<br><img src="images/img01.png" alt="img">');
+L.marker([33.592431, 130.396401], { icon: whiteIcon }).addTo(map).bindPopup('ぎるふりかふぇ<br><img src="images/img01.png" alt="img">');
+L.marker([33.590135, 130.398896], { icon: whiteIcon }).addTo(map).bindPopup('maison cake<br><img src="images/img01.png" alt="img">');
 
 
 
